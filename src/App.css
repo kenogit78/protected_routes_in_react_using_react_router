@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+.signin{
+  align-items: center;
+}
+
+.signin form{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ flex-direction: column;
+}
+
+.signin form input{
+ margin: 5px 0;
+ padding: 5px;
+ width: 200px
+}
